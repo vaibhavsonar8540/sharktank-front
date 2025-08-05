@@ -83,6 +83,7 @@ pitchCreateBtn.addEventListener('click',()=>{
         return rec.json();
     }).then((data)=>{
         console.log(data);
+        alert("added successfully");
         display(data);
     }).catch((err)=>{
         console.log("ERROR 404",err);
@@ -107,6 +108,7 @@ function deletedata(id){
         return res.json();
     }).then((data)=>{
         console.log(data);
+        alert("deleted successfully");
     }).catch((err)=>{
         console.log("ERROR 404",err); 
     })
@@ -234,6 +236,7 @@ function editdata(id){
     updatePitchfounderInput.value=data.founder;
     updatePitchCategoryInput.value=data.category;
     updatePitchPriceInput.value=data.price;
+
  }).catch((err)=>{
   console.log("error 404",err);
  })
