@@ -1,3 +1,4 @@
 # sharktank-front
 
-live : <a href=" sharktank-front.vercel.app" />
+<a href="sharktank-front.vercel.app">Go live</a>
+
