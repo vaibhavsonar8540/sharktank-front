@@ -1,0 +1,119 @@
+{
+  "pitches": [
+    {
+      "image": "https://m.media-amazon.com/images/I/51DUbOFXgHL._AC_UL480_FMwebp_QL65_.jpg",
+      "price": 35,
+      "percentage": 5,
+      "description": "'Auli Lifestyle' has been conceptualised and created by the effervescent Aishwarya Biswas. Her passion for wellness essentials",
+      "founder": "Aishwarya Biswas",
+      "category": "Personal Care",
+      "year": "14-06-2016",
+      "title": "auli Lifestyle",
+      "id": "7"
+    },
+    {
+      "id": "8",
+      "title": "Quirky Naarii",
+      "image": "https://m.media-amazon.com/images/I/71Wa7-cOUqL._AC_UL480_FMwebp_QL65_.jpg",
+      "price": "100",
+      "founder": "Malvica Saxena",
+      "category": "Fashion"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/5755f6_023c4baf970a43e4b187f7271a33fcad~mv2.png/v1/crop/x_237,y_352,w_1328,h_1331/fill/w_614,h_614,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/5755f6_023c4baf970a43e4b187f7271a33fcad~mv2.png",
+      "price": 54,
+      "percentage": 12,
+      "description": "Asia's first and only custom made electric kick scooter operator.World’s first in-premises electric vehicle hybrid-subscription fleet service.",
+      "founder": "Rutvij Dasadia ",
+      "category": "Education",
+      "year": "21-05-2021",
+      "title": "Booz scooters",
+      "id": "9"
+    },
+    {
+      "image": "https://www.cocofit.in/images/Picture4_large.png",
+      "price": 25,
+      "percentage": 3.5,
+      "description": "We strive, respect and work hard every second taking our demigod to a new level with a delicious serving that would be a life changing experience.",
+      "founder": "Sashi Kanth V",
+      "category": "Food",
+      "year": "17-11-2017",
+      "title": "Cocofit",
+      "id": "11"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/5f24cf_a17220104bb5486d943ad3acd5808e90~mv2.png/v1/fill/w_506,h_314,al_c,q_80,usm_0.66_1.00_0.01/5f24cf_a17220104bb5486d943ad3acd5808e90~mv2.png",
+      "price": 26,
+      "percentage": 2.56,
+      "description": "Falhari is India’s #1 fresh fruit products brand with an extensive range of delightful, made-to-order recipes of Salads, Juices, Smoothies, Lassis, Yoghurts, and more",
+      "founder": "Rahul Shankar Bhardwaj",
+      "category": "Food",
+      "year": "20-12-2021",
+      "title": "Falhari",
+      "id": "13"
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYOkeAS5PgCBISOPRp_mZJuIxJ74IyCAlP_A&usqp=CAU",
+      "price": 50,
+      "percentage": 2,
+      "description": "We push our boundaries every day, we’re here to innovate and inspire a new generation of sustainable sanitation technology. PadCare isn’t a startup, it’s a revolution.",
+      "founder": "Ajinkya Dhariya",
+      "category": "Electronics",
+      "year": "07-09-2022",
+      "title": "Padcare Lab",
+      "id": "15"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/617QlJ62nFL._AC_UL480_FMwebp_QL65_.jpg",
+      "price": 57,
+      "percentage": 2,
+      "description": "aradyes is a semi-permanent hair color brand. She introduced the brand by identifying a gap in the market. Banking on her family business of dyes and intermediates, she teamed up with professionals and began R&D to formulate hair colors in their lab.",
+      "founder": "Yushika Jolly,",
+      "category": "Personal Care",
+      "year": "01-07-2021",
+      "title": "Paradyes",
+      "id": "16"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/610d1RfgHDL._AC_UL480_FMwebp_QL65_.jpg",
+      "price": 100,
+      "percentage": 1.5,
+      "description": "A small device that can be attached to any normal stethoscope and the stethoscope will become a digital one. Using this device it can reduce background noise, better audio, and visual clarity, and after all, one can get the live stream of data. ",
+      "founder": "Adarsha K",
+      "category": "Electronics",
+      "year": "12-22-2014",
+      "title": "AyuSynk",
+      "id": "17"
+    },
+    {
+      "image": "https://www.primebook.in/uploads/feature/1675677835_d887598e98a67da677f0.png",
+      "price": 75,
+      "percentage": 1.5,
+      "description": "Primebook 4G unites everything you need to elevate your learning. Meet the first Made In India 4G laptop, engineered with cutting-edge technology, based on the Android 11 Ecosystem, unlocking limitless learning opportunities.",
+      "founder": "Chitranshu Mahant",
+      "category": "Tech",
+      "title": "Primebook",
+      "year": "14-02-2020",
+      "id": "21"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/61pq3ae629L._AC_UY327_FMwebp_QL65_.jpg",
+      "price": 45,
+      "percentage": 10,
+      "description": "HoloKitab is an edTech platform that enables book publishers and manufacturers from various industries to deliver Augmented Reality content to their users in a cost effective way.",
+      "founder": "Dipanshu Bajaj and Nikhil Miglani",
+      "category": "Education",
+      "year": "15-04-2020",
+      "title": "HoloKitab",
+      "id": "22"
+    },
+    {
+      "id": "678c",
+      "title": "Voltas 2023",
+      "image": "data:image/jpeg;base64,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",
+      "category": "Electronics",
+      "founder": "roshan",
+      "price": "30000"
+    }
+  ]
+}
