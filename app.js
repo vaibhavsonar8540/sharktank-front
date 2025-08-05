@@ -236,7 +236,6 @@ function editdata(id){
     updatePitchfounderInput.value=data.founder;
     updatePitchCategoryInput.value=data.category;
     updatePitchPriceInput.value=data.price;
-    alert("updated successfully")
   display(data);
  }).catch((err)=>{
   console.log("error 404",err);
@@ -264,6 +263,8 @@ updatePitchBtn.addEventListener('click',()=>{
           return res.json();
         }).then((data)=>{
            console.log(data);
+           alert("updated successfully")
+           display(data)
         }).catch((err)=>{
           console.log("Erorr 404",err);
         })
