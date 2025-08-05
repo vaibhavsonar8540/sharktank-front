@@ -109,7 +109,6 @@ function deletedata(id){
     }).then((data)=>{
         console.log(data);
         alert("deleted successfully");
-      
     }).catch((err)=>{
         console.log("ERROR 404",err); 
     })
