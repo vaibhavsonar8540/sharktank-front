@@ -107,7 +107,8 @@ function deletedata(id){
     }).then((res) => res.json())
       .then((data) => {
         alert("Deleted successfully");
-        myfunction(); 
+        window.location.reload();
+
       })
       .catch((err) => console.log("ERROR 404", err));
 }
@@ -262,6 +263,7 @@ updatePitchBtn.addEventListener('click',()=>{
         }).then((data)=>{
            console.log(data);
            alert("updated successfully")
+           window.location.reload();
            display(data)
         }).catch((err)=>{
           console.log("Erorr 404",err);
