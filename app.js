@@ -312,6 +312,7 @@ function editprice(id){
     return res.json()
    }).then((data)=>{
     alert("price updated successfully");
+    window.location.reload();
     console.log(data);
    }).catch((err)=>{
     console.log("Erorr 404",err);
