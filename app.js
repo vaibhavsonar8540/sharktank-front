@@ -102,16 +102,14 @@ document.addEventListener('click',(el)=>{
 })
 
 function deletedata(id){
-    fetch(`https://jssharktank-server.onrender.com/pitches/${id}`,{
-        method:"DELETE",
-    }).then((res)=>{
-        return res.json();
-    }).then((data)=>{
-        console.log(data);
-        alert("deleted successfully");
-    }).catch((err)=>{
-        console.log("ERROR 404",err); 
-    })
+    fetch(`https://jssharktank-server.onrender.com/pitches/${id}`, {
+        method: "DELETE",
+    }).then((res) => res.json())
+      .then((data) => {
+        alert("Deleted successfully");
+        myfunction(); 
+      })
+      .catch((err) => console.log("ERROR 404", err));
 }
 
 
@@ -236,7 +234,6 @@ function editdata(id){
     updatePitchfounderInput.value=data.founder;
     updatePitchCategoryInput.value=data.category;
     updatePitchPriceInput.value=data.price;
-    alert("updated successfully");
   display(data);
  }).catch((err)=>{
   console.log("error 404",err);
