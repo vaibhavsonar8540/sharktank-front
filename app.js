@@ -85,6 +85,7 @@ pitchCreateBtn.addEventListener('click',()=>{
         console.log(data);
         alert("added successfully");
          window.location.reload();
+        display(data);
     }).catch((err)=>{
         console.log("ERROR 404",err);
     })
